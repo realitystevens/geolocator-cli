@@ -4,9 +4,9 @@ Run the python script to get the location details for a particular location.
 
 ### Prerequisites
 
-- Install Python [Python](https://python.org/)
+- Install [Python](https://python.org/)
 
-- Install geopy in python using `pip install geopy`
+- Install **geopy python package** using `pip install geopy`
 
 - Run the python file using `python3 geolocator.py`
 
