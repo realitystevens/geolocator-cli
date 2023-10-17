@@ -6,7 +6,7 @@ Run the python script to get the location details for a particular location.
 
 ### Prerequisites
 
-- Install Python [Python](https://python.org/)
+- Install [Python](https://python.org/)
 
 - Install geopy module in python using
 ```sh
