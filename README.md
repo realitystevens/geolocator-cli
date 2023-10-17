@@ -1,6 +1,8 @@
 ## Geolocator
 
+
 Run the python script to get the location details for a particular location.
+
 
 ### Prerequisites
 
@@ -17,6 +19,7 @@ $ python3 geolocator.py
 ```
 
 - Enter the City Name in the Command line and get your result.
+
 
 
 ### More Information
